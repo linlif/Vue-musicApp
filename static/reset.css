@@ -54,6 +54,7 @@ a{
 }
 
 body,html{
+    background-color: #f4f4f4;
     line-height: 1;
     font-weight: 200;
     font-family: 'PingFang SC','STHeiti','Helvetica',Arial,sans-serif  ;
